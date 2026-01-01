@@ -76,7 +76,9 @@ To build a simple yet functional Library Management System that demonstrates rea
 💡 Future Enhancements
 
 📌 Password-protected admin login
+
 📌 Better search (by ID, author, keyword)
+
 📌 Dynamic memory allocation
 📌 GUI-based version
 📌 Database integration
